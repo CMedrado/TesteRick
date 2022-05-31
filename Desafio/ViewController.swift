@@ -78,14 +78,3 @@ extension ViewController: HomeTableViewCellDelegate {
         irParaView(id)
     }
 }
-
-//extension ViewController: UINavigationControllerDelegate {
-//    func navigationController(_ navigationController: UINavigationController, animationControllerFor operation: UINavigationController.Operation, from fromVC: UIViewController, to toVC: UIViewController) -> UIViewControllerAnimatedTransitioning? {
-//        switch operation {
-//        case .push:
-//            <#code#>
-//        default:
-//            <#code#>
-//        }
-//    }
-//}
