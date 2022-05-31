@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3000547B2845BC8900E7E371 /* SeparaNome.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3000547A2845BC8900E7E371 /* SeparaNome.swift */; };
+		3000547D2845BEB800E7E371 /* DetalhesLocalizacaoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3000547C2845BEB800E7E371 /* DetalhesLocalizacaoViewController.xib */; };
 		3030A2F8284537FD00C35892 /* PersonagemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3030A2F6284537FD00C35892 /* PersonagemViewController.swift */; };
 		3030A2F9284537FD00C35892 /* PersonagemViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3030A2F7284537FD00C35892 /* PersonagemViewController.xib */; };
 		3030A2FB284538F600C35892 /* PersonagensTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3030A2FA284538F600C35892 /* PersonagensTableViewCell.xib */; };
@@ -24,7 +26,6 @@
 		3030FFA0283FCB3E00496B48 /* 5164749.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3030FF9F283FCB3E00496B48 /* 5164749.jpg */; };
 		3030FFA3283FCE5D00496B48 /* HomeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3030FFA1283FCE5D00496B48 /* HomeTableViewCell.swift */; };
 		3030FFB1283FDCE900496B48 /* DetalhesLocalizacaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3030FFAF283FDCE900496B48 /* DetalhesLocalizacaoViewController.swift */; };
-		3030FFB2283FDCE900496B48 /* DetalhesLocalizacaoViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3030FFB0283FDCE900496B48 /* DetalhesLocalizacaoViewController.xib */; };
 		3030FFB5283FDCFB00496B48 /* DetalhesEpisodiosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3030FFB3283FDCFB00496B48 /* DetalhesEpisodiosViewController.swift */; };
 		3030FFB6283FDCFB00496B48 /* DetalhesEpisodiosViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3030FFB4283FDCFB00496B48 /* DetalhesEpisodiosViewController.xib */; };
 		308A57D228366B4000567F87 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 308A57D128366B4000567F87 /* AppDelegate.swift */; };
@@ -45,7 +46,6 @@
 		B71CA08F284134AA00B33D50 /* LocalizacaoHTML.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CA08E284134AA00B33D50 /* LocalizacaoHTML.swift */; };
 		B71CA0942841452E00B33D50 /* AnimacaoTransicaoPersonalizada.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CA0932841452E00B33D50 /* AnimacaoTransicaoPersonalizada.swift */; };
 		B71CA0A0284149FF00B33D50 /* EpisodioHTML.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CA09F284149FF00B33D50 /* EpisodioHTML.swift */; };
-		B71CA0A5284169FC00B33D50 /* NomeEpisodio.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71CA0A4284169FC00B33D50 /* NomeEpisodio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +66,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3000547A2845BC8900E7E371 /* SeparaNome.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SeparaNome.swift; sourceTree = "<group>"; };
+		3000547C2845BEB800E7E371 /* DetalhesLocalizacaoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DetalhesLocalizacaoViewController.xib; path = ../../../.Trash/DetalhesLocalizacaoViewController.xib; sourceTree = "<group>"; };
 		3030A2F6284537FD00C35892 /* PersonagemViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PersonagemViewController.swift; sourceTree = "<group>"; };
 		3030A2F7284537FD00C35892 /* PersonagemViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PersonagemViewController.xib; sourceTree = "<group>"; };
 		3030A2FA284538F600C35892 /* PersonagensTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = PersonagensTableViewCell.xib; path = ../../../Desktop/desafio/Desafio/Desafio/PersonagensTableViewCell.xib; sourceTree = "<group>"; };
@@ -83,7 +85,6 @@
 		3030FF9F283FCB3E00496B48 /* 5164749.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 5164749.jpg; path = Imagens/5164749.jpg; sourceTree = "<group>"; };
 		3030FFA1283FCE5D00496B48 /* HomeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeTableViewCell.swift; sourceTree = "<group>"; };
 		3030FFAF283FDCE900496B48 /* DetalhesLocalizacaoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalhesLocalizacaoViewController.swift; sourceTree = "<group>"; };
-		3030FFB0283FDCE900496B48 /* DetalhesLocalizacaoViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetalhesLocalizacaoViewController.xib; sourceTree = "<group>"; };
 		3030FFB3283FDCFB00496B48 /* DetalhesEpisodiosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetalhesEpisodiosViewController.swift; sourceTree = "<group>"; };
 		3030FFB4283FDCFB00496B48 /* DetalhesEpisodiosViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetalhesEpisodiosViewController.xib; sourceTree = "<group>"; };
 		308A57D128366B4000567F87 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -110,7 +111,6 @@
 		B71CA08E284134AA00B33D50 /* LocalizacaoHTML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizacaoHTML.swift; sourceTree = "<group>"; };
 		B71CA0932841452E00B33D50 /* AnimacaoTransicaoPersonalizada.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimacaoTransicaoPersonalizada.swift; sourceTree = "<group>"; };
 		B71CA09F284149FF00B33D50 /* EpisodioHTML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodioHTML.swift; sourceTree = "<group>"; };
-		B71CA0A4284169FC00B33D50 /* NomeEpisodio.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NomeEpisodio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -247,7 +247,7 @@
 				308A580D2836A33C00567F87 /* Localizacao.swift */,
 				308A580F2836A34800567F87 /* Episodio.swift */,
 				309FAFF0283EC74700415122 /* Imagem.swift */,
-				B71CA0A4284169FC00B33D50 /* NomeEpisodio.swift */,
+				3000547A2845BC8900E7E371 /* SeparaNome.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -258,7 +258,7 @@
 				30FC2C06283C23CB00330AE8 /* DetalhePersonagemViewController.swift */,
 				30FC2C07283C23CB00330AE8 /* DetalhePersonagemViewController.xib */,
 				3030FFAF283FDCE900496B48 /* DetalhesLocalizacaoViewController.swift */,
-				3030FFB0283FDCE900496B48 /* DetalhesLocalizacaoViewController.xib */,
+				3000547C2845BEB800E7E371 /* DetalhesLocalizacaoViewController.xib */,
 				3030FFB3283FDCFB00496B48 /* DetalhesEpisodiosViewController.swift */,
 				3030FFB4283FDCFB00496B48 /* DetalhesEpisodiosViewController.xib */,
 			);
@@ -404,6 +404,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3030A2F9284537FD00C35892 /* PersonagemViewController.xib in Resources */,
+				3000547D2845BEB800E7E371 /* DetalhesLocalizacaoViewController.xib in Resources */,
 				3030FF9E283FCB3900496B48 /* 4469093-screen_shot_2015-03-25_at_5.13.24_pm_copy.jpg in Resources */,
 				3030A2FD2845394000C35892 /* HomeTableViewCell.xib in Resources */,
 				3030A30B28453C2500C35892 /* LocalizacaoViewController.xib in Resources */,
@@ -414,7 +415,6 @@
 				3030FF9C283FCB2C00496B48 /* _qbx6.1280.jpg in Resources */,
 				3030FFA0283FCB3E00496B48 /* 5164749.jpg in Resources */,
 				3030A31128453C4900C35892 /* EpisodiosViewController.xib in Resources */,
-				3030FFB2283FDCE900496B48 /* DetalhesLocalizacaoViewController.xib in Resources */,
 				308A57D928366B4100567F87 /* Assets.xcassets in Resources */,
 				30FC2C09283C23CB00330AE8 /* DetalhePersonagemViewController.xib in Resources */,
 				3030A30728453A2900C35892 /* EpisodiosTableViewCell.xib in Resources */,
@@ -449,10 +449,10 @@
 				3030A2F8284537FD00C35892 /* PersonagemViewController.swift in Sources */,
 				B71CA08F284134AA00B33D50 /* LocalizacaoHTML.swift in Sources */,
 				B71CA0A0284149FF00B33D50 /* EpisodioHTML.swift in Sources */,
-				B71CA0A5284169FC00B33D50 /* NomeEpisodio.swift in Sources */,
 				308A57D228366B4000567F87 /* AppDelegate.swift in Sources */,
 				3030FFB5283FDCFB00496B48 /* DetalhesEpisodiosViewController.swift in Sources */,
 				B71CA0942841452E00B33D50 /* AnimacaoTransicaoPersonalizada.swift in Sources */,
+				3000547B2845BC8900E7E371 /* SeparaNome.swift in Sources */,
 				3030A30028453A0400C35892 /* LocalizacaoTableViewCell.swift in Sources */,
 				3030A30628453A2900C35892 /* EpisodiosTableViewCell.swift in Sources */,
 				309FAFF1283EC74700415122 /* Imagem.swift in Sources */,

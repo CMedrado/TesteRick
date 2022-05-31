@@ -33,7 +33,7 @@
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                     <subviews>
                         <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="48N-JX-4M7">
-                            <rect key="frame" x="0.0" y="0.0" width="222.5" height="157.5"/>
+                            <rect key="frame" x="8" y="69" width="223" height="158"/>
                             <subviews>
                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nome" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="y6p-av-81r">
                                     <rect key="frame" x="0.0" y="0.0" width="222.5" height="52.5"/>
@@ -63,10 +63,10 @@
                         </stackView>
                     </subviews>
                     <constraints>
-                        <constraint firstAttribute="bottom" secondItem="48N-JX-4M7" secondAttribute="bottom" id="HrZ-pS-9JF"/>
-                        <constraint firstItem="48N-JX-4M7" firstAttribute="leading" secondItem="e3p-yw-NNe" secondAttribute="leading" id="dJA-Mq-g7l"/>
-                        <constraint firstItem="48N-JX-4M7" firstAttribute="top" secondItem="e3p-yw-NNe" secondAttribute="top" id="s7U-2e-1MK"/>
-                        <constraint firstAttribute="trailing" secondItem="48N-JX-4M7" secondAttribute="trailing" id="yW5-g0-38q"/>
+                        <constraint firstItem="48N-JX-4M7" firstAttribute="top" secondItem="e3p-yw-NNe" secondAttribute="top" constant="69" id="95B-xV-4mN"/>
+                        <constraint firstAttribute="bottom" secondItem="48N-JX-4M7" secondAttribute="bottom" constant="669" id="TjC-zm-A5T"/>
+                        <constraint firstItem="48N-JX-4M7" firstAttribute="leading" secondItem="e3p-yw-NNe" secondAttribute="leading" constant="8" id="fp5-tl-CNF"/>
+                        <constraint firstAttribute="trailing" secondItem="48N-JX-4M7" secondAttribute="trailing" constant="183" id="sKq-Ix-8Iq"/>
                     </constraints>
                 </scrollView>
             </subviews>
