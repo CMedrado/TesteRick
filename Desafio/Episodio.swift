@@ -12,13 +12,13 @@ class Episodio: NSObject {
 
     //MARK: Atributos
     
-    let id: Int
-    let name: String
-    let date: String
-    let episode: String
-    let urlEpisode: String
-    let created: String
-    var characters: Array<String> = []
+    var id: Int
+    var name: String
+    var date: String
+    var episode: String
+    var urlEpisode: String
+    var created: String
+    var characters: [String]
     
     //MARK: Init
     
@@ -29,6 +29,7 @@ class Episodio: NSObject {
         self.episode = episode
         self.urlEpisode = urlEpisode
         self.created = created
+        self.characters = characaters
     }
     
     // MARK: - Class methods
@@ -39,10 +40,11 @@ class Episodio: NSObject {
          let date = json["air_date"] as? String,
          let episode = json["episode"] as? String,
          let url = json["url"] as? String,
+         let characters = json["characters"] as? [String],
          let created = json["created"] as? String
             else { return nil }
         
-        return Episodio(id: id, name: name, date: date, episode: episode, urlEpisode: url, created: created)
+        return Episodio(id: id, name: name, date: date, episode: episode, urlEpisode: url, created: created, characaters: characters)
     }
     
 }

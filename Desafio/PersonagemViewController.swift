@@ -14,6 +14,12 @@ class PersonagemViewController: UIViewController, UITableViewDataSource, UITable
     
     @IBOutlet weak var personagensTableView: UITableView!
     
+    // MARK: - Actions
+    
+    @IBAction func botaoVoltar(_ sender: UIButton) {
+        navigationController?.popViewController(animated: true)
+    }
+    
     // MARK: - Atributos
     
     private lazy var personagensService = PersonagemHTML()

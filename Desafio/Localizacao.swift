@@ -17,16 +17,18 @@ class Localizacao: NSObject {
     var dimension: String
     var url: String
     var created: String
+    var residents: [String]
     
     //MARK: Init
     
-    init(id: Int, name: String, type: String, dimension: String, url: String, created: String) {
+    init(id: Int, name: String, type: String, dimension: String, url: String, created: String, residents: [String]) {
         self.id = id
         self.name = name
         self.type = type
         self.dimension = dimension
         self.url = url
         self.created = created
+        self.residents = residents
     }
     
     // MARK: - Class methods
@@ -37,10 +39,11 @@ class Localizacao: NSObject {
          let type = json["type"] as? String,
          let dimension = json["dimension"] as? String,
          let url = json["url"] as? String,
+         let residents = json["residents"] as? [String],
          let created = json["created"] as? String
             else { return nil }
         
-        return Localizacao(id: id, name: name, type: type, dimension: dimension, url: url, created: created)
+        return Localizacao(id: id, name: name, type: type, dimension: dimension, url: url, created: created, residents: residents)
     }
     
 }
