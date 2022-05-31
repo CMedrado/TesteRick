@@ -15,6 +15,7 @@ class DetalhesEpisodiosViewController: UIViewController {
     @IBOutlet weak var nomeLabel: UILabel!
     @IBOutlet weak var dataLabel: UILabel!
     @IBOutlet weak var episodioLabel: UILabel!
+    @IBOutlet weak var charactersLabel: UILabel!
     
     // MARK: - Atributos
 
@@ -37,9 +38,13 @@ class DetalhesEpisodiosViewController: UIViewController {
     }
     
     func configuraView() {
-        nomeLabel.text = epi?.name
-        dataLabel.text = epi?.date
-        episodioLabel.text = epi?.episode
+        if let episodio = epi{
+        nomeLabel.text = episodio.name
+        dataLabel.text = episodio.date
+        episodioLabel.text = episodio.episode
+        let characters = episodio.characters.joined(separator: "\n")
+        charactersLabel.text = characters
+        }
     }
 
 }

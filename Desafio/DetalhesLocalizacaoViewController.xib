@@ -32,7 +32,7 @@
                     <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                     <subviews>
                         <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="Htt-cj-wBT">
-                            <rect key="frame" x="0.0" y="0.0" width="150" height="158"/>
+                            <rect key="frame" x="8" y="60" width="149.5" height="157.5"/>
                             <subviews>
                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Nome" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PKe-l3-soG">
                                     <rect key="frame" x="0.0" y="0.0" width="149.5" height="52.5"/>
@@ -60,12 +60,18 @@
                                 </label>
                             </subviews>
                         </stackView>
+                        <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2fK-bN-qU6">
+                            <rect key="frame" x="0.0" y="8" width="82" height="29"/>
+                            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                            <state key="normal" title="Return"/>
+                        </button>
                     </subviews>
                     <constraints>
-                        <constraint firstAttribute="bottom" secondItem="Htt-cj-wBT" secondAttribute="bottom" id="Hsh-2d-OoH"/>
-                        <constraint firstItem="Htt-cj-wBT" firstAttribute="top" secondItem="FKh-FV-hqO" secondAttribute="top" id="O8W-mR-nHe"/>
-                        <constraint firstAttribute="trailing" secondItem="Htt-cj-wBT" secondAttribute="trailing" id="RFk-wd-EvL"/>
-                        <constraint firstItem="Htt-cj-wBT" firstAttribute="leading" secondItem="FKh-FV-hqO" secondAttribute="leading" id="mEi-1B-q93"/>
+                        <constraint firstAttribute="bottom" secondItem="Htt-cj-wBT" secondAttribute="bottom" constant="449" id="FEg-tv-vYj"/>
+                        <constraint firstItem="Htt-cj-wBT" firstAttribute="leading" secondItem="FKh-FV-hqO" secondAttribute="leading" constant="8" id="RaF-xf-b5i"/>
+                        <constraint firstAttribute="trailing" secondItem="Htt-cj-wBT" secondAttribute="trailing" constant="217" id="aaf-iL-E3L"/>
+                        <constraint firstItem="Htt-cj-wBT" firstAttribute="top" secondItem="FKh-FV-hqO" secondAttribute="top" constant="60" id="nZD-qd-mtm"/>
                     </constraints>
                 </scrollView>
             </subviews>
@@ -76,7 +82,7 @@
                 <constraint firstAttribute="bottom" secondItem="FKh-FV-hqO" secondAttribute="bottom" id="WjZ-IZ-Vd1"/>
                 <constraint firstItem="FKh-FV-hqO" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="e2A-Dx-P1M"/>
             </constraints>
-            <point key="canvasLocation" x="33.5" y="71.5"/>
+            <point key="canvasLocation" x="50.5" y="50.5"/>
         </view>
     </objects>
 </document>

@@ -17,6 +17,10 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="lgr-cK-HuL">
+                        <rect key="frame" x="0.0" y="623" width="375" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </toolbar>
                     <connections>
                         <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="XmX-qN-C9F"/>
                     </connections>
@@ -52,7 +56,9 @@
                             <constraint firstItem="FuA-Pg-c76" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="v2k-tU-i3g"/>
                         </constraints>
                     </view>
+                    <extendedEdge key="edgesForExtendedLayout" bottom="YES"/>
                     <navigationItem key="navigationItem" id="bwK-aY-h8s"/>
+                    <nil key="simulatedTopBarMetrics"/>
                     <connections>
                         <outlet property="homeTableView" destination="FuA-Pg-c76" id="OWe-zC-K2g"/>
                     </connections>

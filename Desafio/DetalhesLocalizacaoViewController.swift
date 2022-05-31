@@ -38,9 +38,13 @@ class DetalhesLocalizacaoViewController: UIViewController {
     }
     
     func configuraView() {
-        nomeLabel.text = local?.name
-        tipoLabel.text = local?.type
-        dimensaoLabel.text = local?.dimension
+        if let localView = local{
+        nomeLabel.text = localView.name
+        tipoLabel.text = localView.type
+        dimensaoLabel.text = localView.dimension
+        let moradores = localView.residents.joined(separator: "\n")
+        residenteLabel.text = moradores
+        }
     }
 }
 

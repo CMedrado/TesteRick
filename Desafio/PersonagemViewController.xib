@@ -23,15 +23,30 @@
                 <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="WPC-L5-apR">
                     <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                     <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <color key="separatorColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                    <color key="sectionIndexBackgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                 </tableView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="k9Y-L3-ago">
+                    <rect key="frame" x="0.0" y="0.0" width="80" height="33"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="21"/>
+                    <state key="normal" title="Return"/>
+                    <connections>
+                        <action selector="botaoVoltar:" destination="-1" eventType="touchUpInside" id="3JO-nf-7Iu"/>
+                    </connections>
+                </button>
             </subviews>
             <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
             <constraints>
+                <constraint firstAttribute="bottom" secondItem="k9Y-L3-ago" secondAttribute="bottom" constant="634" id="5FO-Zj-aV3"/>
+                <constraint firstItem="k9Y-L3-ago" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="C9z-qN-fuw"/>
+                <constraint firstAttribute="trailing" secondItem="k9Y-L3-ago" secondAttribute="trailing" constant="295" id="L4k-lL-401"/>
                 <constraint firstAttribute="trailing" secondItem="WPC-L5-apR" secondAttribute="trailing" id="NYj-qO-bFj"/>
                 <constraint firstItem="WPC-L5-apR" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="d3G-dQ-zsm"/>
                 <constraint firstItem="WPC-L5-apR" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="rTP-RH-TYZ"/>
                 <constraint firstAttribute="bottom" secondItem="WPC-L5-apR" secondAttribute="bottom" id="tv5-pv-ce1"/>
+                <constraint firstItem="k9Y-L3-ago" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="vv5-ft-jhU"/>
             </constraints>
+            <nil key="simulatedTopBarMetrics"/>
             <point key="canvasLocation" x="26.5" y="51.5"/>
         </view>
     </objects>

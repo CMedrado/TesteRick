@@ -16,6 +16,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DetalhesEpisodiosViewController" customModule="Desafio" customModuleProvider="target">
             <connections>
+                <outlet property="charactersLabel" destination="PQf-g3-Q5d" id="5eU-HE-9TC"/>
                 <outlet property="dataLabel" destination="Zk1-S1-Maz" id="Qva-yy-fDh"/>
                 <outlet property="episodioLabel" destination="az8-a6-zUq" id="MNs-PL-M2k"/>
                 <outlet property="nomeLabel" destination="y6p-av-81r" id="vnx-74-avc"/>

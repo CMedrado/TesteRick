@@ -24,7 +24,7 @@ class Personagem: NSObject {
      var image: UIImage
      var url: String
      var created: String
-    var episodios: [String]
+     var episodios: [String]
     
     //MARK: Init
     
