@@ -40,11 +40,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675200727.7797821"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "32"
-            endingLineNumber = "32"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -56,11 +56,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675200727.7797821"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
             <Locations>
@@ -200,11 +200,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675204948.901286"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "42"
-            endingLineNumber = "42"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
             <Locations>
@@ -264,11 +264,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675627013.214429"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
             <Locations>
@@ -312,43 +312,43 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675627217.263599"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "24"
-            endingLineNumber = "24"
-            landmarkName = "getPersonagens(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675627217.599641"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "26"
-            endingLineNumber = "26"
-            landmarkName = "getPersonagens(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675627218.279693"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "25"
             endingLineNumber = "25"
+            landmarkName = "getPersonagens(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/PersonagemHTML.swift"
+            timestampString = "675659663.3015929"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getPersonagens(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/PersonagemHTML.swift"
+            timestampString = "675659663.3015929"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -584,11 +584,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675630647.9078389"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -600,11 +600,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675630648.4915349"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "22"
-            endingLineNumber = "22"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
             <Locations>
@@ -648,11 +648,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675630653.531564"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "21"
-            endingLineNumber = "21"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -824,7 +824,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.9151959"
+                  timestampString = "675659792.2814"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "66"
@@ -839,7 +839,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.918607"
+                  timestampString = "675659792.285063"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "66"
@@ -904,7 +904,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.939043"
+                  timestampString = "675659792.308532"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "68"
@@ -919,12 +919,12 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.948535"
+                  timestampString = "675659792.311594"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "68"
                   endingLineNumber = "68"
-                  offsetFromSymbolStart = "1586">
+                  offsetFromSymbolStart = "1589">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -952,7 +952,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.961079"
+                  timestampString = "675659792.320668"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "66"
@@ -967,7 +967,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.964642"
+                  timestampString = "675659792.324187"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "66"
@@ -1032,7 +1032,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.98722"
+                  timestampString = "675659792.404389"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "61"
@@ -1047,7 +1047,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.990734"
+                  timestampString = "675659792.407567"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "64"
@@ -1080,7 +1080,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655604.997869"
+                  timestampString = "675659792.4174629"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "81"
@@ -1095,12 +1095,12 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/EpisodioHTML.swift"
-                  timestampString = "675655605.001298"
+                  timestampString = "675659792.4223779"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "81"
                   endingLineNumber = "81"
-                  offsetFromSymbolStart = "2058">
+                  offsetFromSymbolStart = "2061">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1332,7 +1332,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/PersonagensTableViewCell.swift"
-                  timestampString = "675655605.028774"
+                  timestampString = "675659792.484233"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1347,7 +1347,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/PersonagensTableViewCell.swift"
-                  timestampString = "675655605.031985"
+                  timestampString = "675659792.4887151"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1362,7 +1362,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/PersonagensTableViewCell.swift"
-                  timestampString = "675655605.035748"
+                  timestampString = "675659792.492969"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1377,7 +1377,7 @@
                   moduleName = "Desafio"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/rafaelmedrado/Downloads/appricky/Desafio/PersonagensTableViewCell.swift"
-                  timestampString = "675655605.03979"
+                  timestampString = "675659792.496863"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "19"
@@ -1473,11 +1473,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675649671.836292"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "16"
-            endingLineNumber = "16"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1489,11 +1489,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675649672.300014"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
             landmarkName = "getPersonagens(completion:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -1617,23 +1617,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675650952.78131"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "34"
-            endingLineNumber = "34"
-            landmarkName = "getPersonagens(completion:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675650953.298933"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "35"
@@ -1649,12 +1633,108 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Desafio/PersonagemHTML.swift"
-            timestampString = "675650959.474756"
+            timestampString = "675659663.3015929"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "36"
             endingLineNumber = "36"
             landmarkName = "getPersonagens(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/PersonagemHTML.swift"
+            timestampString = "675659663.3015929"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getPersonagens(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/LocalizacaoHTML.swift"
+            timestampString = "675659784.715178"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "getLocal(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/LocalizacaoHTML.swift"
+            timestampString = "675659785.084856"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getLocal(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/LocalizacaoHTML.swift"
+            timestampString = "675659788.116958"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "getLocal(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/LocalizacaoHTML.swift"
+            timestampString = "675659887.225633"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getLocal(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Desafio/LocalizacaoHTML.swift"
+            timestampString = "675659887.785642"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getLocal(completion:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
